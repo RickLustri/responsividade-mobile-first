@@ -1,0 +1,25 @@
+@media (min-width: 768px) and (max-width: 1024px) {
+
+  main {
+    margin: 80px;
+  }
+
+  img {
+    width: 300px;
+    height: 300px;
+  }
+
+  h1 {
+    font-size: 40px;
+  }
+
+  p {
+    font-size: 20px;
+  }
+
+  button {
+    font-size: 24px;
+    background-color: #c47f17;
+  }
+
+}
